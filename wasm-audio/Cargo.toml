@@ -2,7 +2,7 @@
 name = "wasm-audio"
 version = "0.1.0"
 authors = ["saleem <saleemadat@gmail.com>"]
-edition = "2018"
+edition = "2024"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
